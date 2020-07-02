@@ -1,3 +1,3 @@
 #Tour project
 
-In un mondo di John e di Paul io sono Ringo Star
+App for handling tours for guides. Coded for learning NodeJS and PUG. 
