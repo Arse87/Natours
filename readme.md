@@ -1,3 +1,1 @@
-#Tour project
-
-App for handling tours for guides. Created with the goal of learning NodeJS and PUG. 
+#Open-source project based on a Udemy course for learning Node.
